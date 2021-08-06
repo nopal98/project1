@@ -1,6 +1,6 @@
-## Form Validation, Login and Regristration, and search Film with OMDB API
+## Form Validation, Login and Registration, and search Film with OMDB API
 Project ini saya buat untuk test disebuah perusahaan startup.<br>
-Feature simple, hanya ada form, login dan regristation page, serta search film dengan <a href="https://www.omdbapi.com/">OMDB API</a>
+Feature simple, hanya ada form, Login dan Registration page, serta search film dengan <a href="https://www.omdbapi.com/">OMDB API</a>
 
 ## Technology
 - Bootsrap v4
