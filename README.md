@@ -3,7 +3,7 @@ Project ini saya buat untuk test disebuah perusahaan startup.<br>
 Feature simple, hanya ada form, Login dan Registration page, serta search film dengan <a href="https://www.omdbapi.com/">OMDB API</a>
 
 ## Technology
-- Bootsrap v4
+- Bootstrap v4
 - Laravel 8
 
 
